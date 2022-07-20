@@ -7,7 +7,7 @@
 
 ##
 
-  <img height="169em" src="https://weheartit.com/entry/99633341"/>
+  <img src="https://weheartit.com/entry/99633341"/>
 </div>
   
 ##
